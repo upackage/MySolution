@@ -1,0 +1,5 @@
+# 忽略所有名为.obj的文件夹  
+**/.obj/  
+  
+# 忽略bin/Debug文件夹及其所有内容  
+bin/Debug/
