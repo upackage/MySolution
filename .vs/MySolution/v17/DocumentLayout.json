@@ -1,37 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\0_Test\\MySolution\\MySolution\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{2FAD1923-2874-4EB7-BFD0-112C46C9B261}|ConsoleApp\\CalculateCsv\\CalculateCsv.csproj|d:\\0_test\\mysolution\\mysolution\\consoleapp\\calculatecsv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FAD1923-2874-4EB7-BFD0-112C46C9B261}|ConsoleApp\\CalculateCsv\\CalculateCsv.csproj|solutionrelative:consoleapp\\calculatecsv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\0_Test\\MySolution\\MySolution\\ConsoleApp\\CalculateCsv\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleApp\\CalculateCsv\\Program.cs",
-              "ToolTip": "D:\\0_Test\\MySolution\\MySolution\\ConsoleApp\\CalculateCsv\\Program.cs",
-              "RelativeToolTip": "ConsoleApp\\CalculateCsv\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T14:31:42.642Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

@@ -3,3 +3,4 @@
   
 # 忽略bin/Debug文件夹及其所有内容  
 bin/Debug/
+/.vs/MySolution/v17/.suo
